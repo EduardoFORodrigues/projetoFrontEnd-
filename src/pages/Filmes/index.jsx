@@ -3,7 +3,7 @@ export default function Filmes(){
 
     return(
         <>
-        <h1>Página de filmes</h1>
+        <h1>BEM VINDO AO DETALHES DO FILME</h1>
         </>
     )
 }
